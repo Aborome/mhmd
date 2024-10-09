@@ -2,20 +2,20 @@
 <resources>
 
     <string-array name="stones">
-        <item>Chess Piece - volkswagen </item>
-        <item>Chess Piece - ford </item>
-        <item>Chess Piece - bmw</item>
-        <item>Chess Piece - hyundai </item>
-        <item>Chess Piece - pejo  </item>
-        <item>Chess Piece - subaru </item>
+        <item>Chess Piece - arsenal </item>
+        <item>Chess Piece - chealsea </item>
+        <item>Chess Piece - manchester</item>
+        <item>Chess Piece - paris </item>
+        <item>Chess Piece - tottenham </item>
+        <item>Chess Piece - tottenham </item>
     </string-array>
 
     <string-array name="details">
-        <item>With a team of more than 1150 employees in Wolfsburg and Bochum, we work in the fields of connectivity and automotive software. Under the roof of CARIAD, the Volkswagen Group unites experienced companies that work on future technology such as integrating vehicles with hard- and software for the Group’s various brands..</item>
-        <item>American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln brand. The company is listed on the New York Stock Exchange and is controlled by the Ford family. They have minority ownership but a plurality of the voting power..</item>
-        <item>is a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. The company was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 to 1918 and again from 1933 to 1945 creating engines for aircraft that were used in the Second World War.</item>
-        <item>is a South Korean multinational automotive manufacturer headquartered in Seoul, South Korea, which was founded in 1967. Currently, the company owns 33.88 percent of Kia Corporation,[5] and fully owns two marques including its luxury cars subsidiary, Genesis, and their electric vehicle brand Ioniq.[6][7][8] The three brands altogether make up the Hyundai Motor Group.</item>
-        <item>The family business that preceded the current Peugeot companies was established in 1810,[6] making it one of the oldest car companies in the world.[7] On 20 November 1858, Émile Peugeot applied for the lion trademark. Armand Peugeot (1849–1915) .</item>
-        <item>The family business that preceded the current Peugeot companies was established in 1810,[6] making it one of the oldest car companies in the world.[7] On 20 November 1858, Émile Peugeot applied for the lion trademark. Armand Peugeot (1849–1915) built the </item>
+        <item>arsenak one of the biggest prem teams</item>
+        <item>a team full of youngestrs</item>
+        <item>one of the smallest prem teams they are shit</item>
+        <item>the biggest team in the prem</item>
+        <item> the smallest team.</item>
+        <item>the biggist club in the world </item>
     </string-array>
 </resources>

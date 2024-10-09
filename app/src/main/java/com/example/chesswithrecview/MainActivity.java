@@ -5,13 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -43,12 +38,12 @@ public class MainActivity extends AppCompatActivity implements StoneAdapter.Item
 
     private void initImgArray() {
         images=new int[6];
-        images[0]=R.drawable.a;
-        images[1]=R.drawable.cars;
-        images[2]=R.drawable.e;
-        images[3]=R.drawable.r;
-        images[4]=R.drawable.u;
-        images[5]=R.drawable.fdg;
+        images[0]=R.drawable.kos;
+        images[1]=R.drawable.chelsea;
+        images[2]=R.drawable.manchester;
+        images[3]=R.drawable.paris;
+        images[4]=R.drawable.tottenham;
+        images[5]=R.drawable.tottenham;
     }
 
     private void initViews() {
